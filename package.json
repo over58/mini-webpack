@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "build": "node mini-webpack.js"
+  },
+  "dependencies": {
+    "@babel/core": "^7.14.0",
+    "@babel/parser": "^7.14.1",
+    "@babel/preset-env": "^7.14.1",
+    "@babel/traverse": "^7.14.0"
+  }
+}
