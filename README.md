@@ -47,7 +47,7 @@ function getModuleInfo(file){
 }
 ```
 
-## 3. 收集依赖
+## 3. 全局收集依赖
 ```
 // 依赖收集, 广度优先遍历收集所有的依赖
 function parseModules(file) {
